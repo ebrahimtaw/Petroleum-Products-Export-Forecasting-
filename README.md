@@ -14,8 +14,8 @@ The project focuses on building a neural network to predict the future export vo
 - **Model**: A neural network with ReLU activation functions trained using the Adam optimizer.
 - **Loss Function**: Mean Squared Error (MSE).
 - **Performance Metrics**: 
-  - Test RMSE: ~1045 barrels
-  - R² Score: 0.986
+  - Test RMSE in barrels
+  - R² Score
 
 ## Highlights ✨
 - **One-Hot Encoding** used for categorical features (petroleum products).
