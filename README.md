@@ -2,6 +2,8 @@
 
 The project focuses on building a neural network to predict the future export volumes of petroleum products in Bahrain. By leveraging historical data and various petroleum products as input features, the model forecasts future exports with a high degree of accuracy. This forecasting tool can be integrated into business workflows to aid in planning and decision-making.
 
+> **Dataset**: The data used in this project was sourced from Bahrain's Open Data Portal.
+
 ## Features / Variables 📊
 - **Year**: The year of the export.
 - **Petroleum Products Exported**: Type of petroleum product (e.g., Naphtha, Diesel, Fuel Oil, etc.).
