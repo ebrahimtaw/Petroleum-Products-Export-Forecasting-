@@ -28,5 +28,5 @@ The project focuses on building a neural network to predict the future export vo
 3. Model training with TensorFlow, fine-tuned for optimal performance.
 4. Performance evaluation using MSE, RMSE, and residual plots.
 
-Explore the code to learn how deep learning can forecast future trends in the oil and gas sector! 🚀
+Explore the code to learn how deep learning can forecast future trends in the Oil and Gas sector! 🚀
 
