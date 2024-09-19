@@ -20,7 +20,7 @@ The project focuses on building a neural network to predict the future export vo
 ## Highlights ✨
 - **One-Hot Encoding** used for categorical features (petroleum products).
 - **Residual analysis** to detect underfitting/overfitting patterns.
-- Model achieved a high **R² score**, indicating accurate forecasting for unseen data.
+- Model achieved a high **R² score**, indicating precise forecasting for unseen data.
 
 ## Key Steps 📋
 1. Data preprocessing and one-hot encoding of categorical features.
